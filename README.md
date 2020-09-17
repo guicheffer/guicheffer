@@ -1,4 +1,4 @@
-# João Guilherme Cheffer Prado 🟢
+# Cheffer Prado, João Guilherme 🟢
 
 > I write code. At least I try to...
 
