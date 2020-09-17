@@ -4,7 +4,7 @@
 
 **I'm**:
 
-- A Senior Full Stack Engineer;
+- A Senior Front-End Engineer;
 - 9+ years of experience;
 - Javascript Enthusiast, Geek, Gamer and stuff;
 - ...also lazy to type more of these bullets here 👀
