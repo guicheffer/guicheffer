@@ -1,13 +1,13 @@
-# Cheffer Prado, João Guilherme 🟢
+# Cheffer Prado, João Guilherme
 
-> I write code. At least I try to...
+> I build complex frontends. I end up writing code.
 
 **I'm**:
 
 - A Senior Front-End Engineer;
 - 9+ years of experience;
 - Javascript Enthusiast, Geek, Gamer and stuff;
-- ...also lazy to type more of these bullets here 👀
+- Lazy enough to not inserting more bullets here;
 
 ## Important Links
 
