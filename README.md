@@ -8,15 +8,9 @@
 [![blog](https://img.shields.io/badge/-blog-171717?style=flat-square&logo=Ghost&logoColor=white&link=http://guicheffer.me/)](http://guicheffer.me/)
 [![GitHub followers](https://img.shields.io/github/followers/guicheffer.svg?style=social&label=follow&maxAge=2592000)](https://github.com/guicheffer?tab=followers)
 
-**I sort of am**:
-
-- A Lead & Senior Front-End Engineer;
-- 9+ years of experience;
-- Javascript Enthusiast, Geek, Gamer and stuff;
-- Lazy enough to not insert more bullets here;
-
-
-![guicheffer github stats](https://github-readme-stats.vercel.app/api?username=guicheffer&count_private=true&show_icons=true&title_color=000&icon_color=BLUE&text_color=000000&bg_color=FFFFFF&hide=issues,contribs,rank,border)
+| **I ~sort of~ am** 	| Stats 	|
+|-	|-	|
+| - A Lead & Senior Front-End Engineer;<br>- 9+ years of experience;<br>- Javascript Enthusiast, Geek, Gamer and stuff;<br>- Lazy enough to not insert more bullet points here 🤭| ![guicheffer github stats](https://github-readme-stats.vercel.app/api?username=guicheffer&count_private=true&show_icons=true&title_color=000&icon_color=BLUE&text_color=000000&bg_color=FFFFFF&hide=issues,contribs,rank,border) 	|
 
 ## Important Links
 
