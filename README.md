@@ -10,7 +10,7 @@
 
 **I sort of am**:
 
-- A Senior Front-End Engineer;
+- A Lead & Senior Front-End Engineer;
 - 9+ years of experience;
 - Javascript Enthusiast, Geek, Gamer and stuff;
 - Lazy enough to not insert more bullets here;
