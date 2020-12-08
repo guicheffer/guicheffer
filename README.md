@@ -10,7 +10,7 @@
 
 | **I ~sort of~ am** 	| Stats 	|
 |-	|-	|
-| - A Lead & Senior Front-End Engineer;<br>- 9+ years of experience;<br>- Javascript Enthusiast, Geek, Gamer and stuff;<br>- Lazy enough to not insert more bullet points here 🤭| ![guicheffer github stats](https://github-readme-stats.vercel.app/api?username=guicheffer&count_private=true&show_icons=true&title_color=c9d1d9&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&hide=issues,contribs,rank) 	|
+| - A Lead & Senior Front-End Engineer;<br>- 9+ years of experience;<br>- Javascript Enthusiast, Geek, Gamer and stuff;<br>- Lazy enough to not insert more bullet points here 🤭| ![guicheffer github stats](https://github-readme-stats.vercel.app/api?username=guicheffer&count_private=true&show_icons=true&title_color=c9d1d9&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&hide=issues,contribs,rank&hide_border=true) 	|
 
 ## Important Links
 
