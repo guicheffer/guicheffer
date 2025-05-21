@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">Hi, I'm João Guilherme Cheffer Prado 👋</h1>
-<h4 align="center">A Javascript enthusiast, Engineering Manager & Senior Web Engineer</h4>
+<h4 align="center">A Javascript enthusiast, Engineering Manager & Web Engineer</h4>
 
 <p align="center">
   <a href="mailto:hi@guicheffer.me"><img src="https://img.shields.io/badge/-Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
@@ -20,8 +20,8 @@
   <summary><b>About Me 🙋‍♂️</b></summary>
 
   <ul>
-    <li>👨‍💼 Currently working as Engineering Manager & Senior Web Engineering</li>
-    <li>💻 10+ years of experience building complex UIs and writing code</li>
+    <li>👨‍💼 Currently working as Engineering Manager & Web Engineering</li>
+    <li>💻 15+ years of experience building complex UIs and writing code</li>
     <li>🤓 Javascript enthusiast, geek, and gamer</li>
     <li>🌴 Based in Berlin, Germany</li>
   </ul>
