@@ -20,7 +20,7 @@
   <summary><b>About Me 🙋‍♂️</b></summary>
 
   <ul>
-    <li>👨‍💼 Currently working as Engineering Manager & Web Engineering</li>
+    <li>👨‍💼 Currently working as Staff Engineer @ HelloFresh with AI SDD across multiple teams</li>
     <li>💻 15+ years of experience building complex UIs and writing code</li>
     <li>🤓 Javascript enthusiast, geek, and gamer</li>
     <li>🌴 Based in Berlin, Germany</li>
