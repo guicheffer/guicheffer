@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">Hi, I'm João Guilherme Cheffer Prado 👋</h1>
-<h4 align="center">A Javascript enthusiast, Engineering Manager & Web Engineer</h4>
+<h4 align="center">A Javascript enthusiast, Senior Staff Software Engineer, mentor & Leader</h4>
 
 <p align="center">
   <a href="mailto:hi@guicheffer.me"><img src="https://img.shields.io/badge/-Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
